@@ -1,0 +1,41 @@
+export const GET_ERRORS = "GET_ERRORS";
+
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+
+export const GET_PROFILE = "GET_PROFILE";
+export const PROFILE_LOADING = "PROFILE_LOADING";
+export const PROFILE_NOT_FOUND = "PROFILE_NOT_FOUND";
+export const CLEAR_CURRENT_PROFILE = "CLEAR_CURRENT_PROFILE";
+export const GET_PROFILES = "GET_PROFILES";
+export const POST_LOADING = "POST_LOADING";
+export const GET_POSTS = "GET_POSTS";
+export const GET_POST = "GET_POST";
+export const ADD_POST = "ADD_POST";
+export const DELETE_POST = "DELETE_POST";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+
+export const CAROSUL_LOADING = "CAROSUL_LOADING";
+export const FEATURE_LOADING = "FEATURE_LOADING";
+export const PRODUCT_LOADING = "PRODUCT_LOADING";
+
+export const ADD_CART = "ADD_CART";
+export const LOAD_CART = "LOAD_CART";
+export const REMOVE_AND_RESET_CART = "REMOVE_AND_RESET_CART";
+
+export const CATEGORY_LOADING = "CATEGORY_LOADING";
+export const CATEGORY_LOADING_PRODUCTS = "CATEGORY_LOADING_PRODUCTS";
+export const ADD_CATEGORY = "ADD_CATEGORY";
+export const DELETE_CATEGORY = "DELETE_CATEGORY";
+
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const DELETE_PRODUCT = "DELETE_PRODUCT";
+export const GET_ALL_PRODUCT = "GET_ALL_PRODUCT";
+
+export const ADD_ORDER = "ADD_ORDER";
+export const NEW_ORDER = "NEW_ORDER";
+export const CONFIRM_ORDER = "CONFIRM_ORDER";
+export const CONFIRM_ORDER_BY_ID = "CONFIRM_ORDER_BY_ID";
+export const GET_ALL_ORDER = "GET_ALL_ORDER";
+
+export const ADD_CONTACT = "ADD_CONTACT";
+export const GET_ALL_CONTACT = "GET_ALL_CONTACT";
